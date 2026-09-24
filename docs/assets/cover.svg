@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+  <title id="title">Signal/Ops Ads Support Delivery Lab</title>
+  <desc id="desc">A visual map of a synthetic Ads case moving through evidence, agents, human review, response, and product feedback.</desc>
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#789986" opacity=".2"/></pattern>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#172e27"/><stop offset="1" stop-color="#244736"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="7" stdDeviation="12" flood-color="#0e2119" flood-opacity=".3"/></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M1 1 L7 4 L1 7" fill="none" stroke="#9db9a4" stroke-width="1.5"/></marker>
+  </defs>
+  <rect width="1200" height="590" fill="url(#bg)"/>
+  <rect width="1200" height="590" fill="url(#dots)"/>
+  <path d="M0 462 C220 420 387 510 610 456 S1016 383 1200 434" fill="none" stroke="#3e6b53" stroke-width="1" opacity=".7"/>
+  <path d="M0 486 C220 444 387 534 610 480 S1016 407 1200 458" fill="none" stroke="#3e6b53" stroke-width="1" opacity=".45"/>
+  <g transform="translate(64 55)">
+    <rect x="0" y="0" width="8" height="28" fill="#e88962" transform="skewX(-13)"/>
+    <rect x="13" y="-5" width="8" height="33" fill="#dce9d9" transform="skewX(-13)"/>
+    <rect x="26" y="6" width="8" height="22" fill="#dce9d9" transform="skewX(-13)"/>
+    <text x="49" y="22" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="-2" fill="#f4f7ee">SIGNAL<tspan fill="#e88962">/</tspan>OPS</text>
+    <text x="51" y="41" font-family="monospace" font-size="9" letter-spacing="3" fill="#a8c3ab">ADS SUPPORT DELIVERY LAB</text>
+  </g>
+  <text x="66" y="192" font-family="Georgia,serif" font-size="58" fill="#f8f7ec" letter-spacing="-2">Every signal.</text>
+  <text x="66" y="263" font-family="Georgia,serif" font-size="58" font-style="italic" fill="#e88962" letter-spacing="-2">One clear response.</text>
+  <text x="68" y="313" font-family="Arial,sans-serif" font-size="17" fill="#c0d5c4">A traceable agent workflow for Ads support cases,</text>
+  <text x="68" y="339" font-family="Arial,sans-serif" font-size="17" fill="#c0d5c4">human review, and product feedback.</text>
+  <g filter="url(#shadow)">
+    <rect x="607" y="123" width="510" height="329" rx="8" fill="#f8f8f1"/>
+    <rect x="607" y="123" width="510" height="46" rx="8" fill="#e9eee5"/>
+    <rect x="607" y="158" width="510" height="11" fill="#e9eee5"/>
+    <circle cx="630" cy="146" r="4" fill="#dd7351"/>
+    <circle cx="646" cy="146" r="4" fill="#d4bd83"/>
+    <circle cx="662" cy="146" r="4" fill="#78a787"/>
+    <text x="694" y="150" font-family="monospace" font-size="11" letter-spacing="1" fill="#557366">CASE-1042 / DELIVERY INVESTIGATION</text>
+    <text x="636" y="205" font-family="monospace" font-size="10" letter-spacing="1.4" fill="#bd6a4b">SYNTHETIC CASE FLOW</text>
+    <line x1="671" y1="286" x2="1075" y2="286" stroke="#9db9a4" stroke-width="1.5" marker-end="url(#arrow)"/>
+    <g font-family="Arial,sans-serif" text-anchor="middle">
+      <circle cx="673" cy="286" r="28" fill="#2f5d48"/><text x="673" y="292" fill="#fff" font-size="19">I</text><text x="673" y="339" font-size="12" font-weight="700" fill="#304c3d">INTAKE</text>
+      <circle cx="769" cy="286" r="28" fill="#2f5d48"/><text x="769" y="292" fill="#fff" font-size="19">T</text><text x="769" y="339" font-size="12" font-weight="700" fill="#304c3d">TRIAGE</text>
+      <circle cx="865" cy="286" r="28" fill="#2f5d48"/><text x="865" y="292" fill="#fff" font-size="19">D</text><text x="865" y="339" font-size="12" font-weight="700" fill="#304c3d">DIAGNOSE</text>
+      <circle cx="961" cy="286" r="28" fill="#b47a55"/><text x="961" y="292" fill="#fff" font-size="19">H</text><text x="961" y="339" font-size="12" font-weight="700" fill="#304c3d">REVIEW</text>
+      <circle cx="1057" cy="286" r="28" fill="#2f5d48"/><text x="1057" y="292" fill="#fff" font-size="19">R</text><text x="1057" y="339" font-size="12" font-weight="700" fill="#304c3d">RESPONSE</text>
+    </g>
+    <line x1="636" y1="367" x2="1087" y2="367" stroke="#dfe5da"/>
+    <text x="636" y="398" font-family="monospace" font-size="10" letter-spacing=".8" fill="#7c9180">EVIDENCE → DECISION → CUSTOMER DRAFT → PRODUCT INSIGHT</text>
+    <rect x="636" y="417" width="177" height="5" rx="2" fill="#e3e9df"/><rect x="636" y="417" width="119" height="5" rx="2" fill="#d97753"/>
+  </g>
+  <text x="68" y="514" font-family="monospace" font-size="12" letter-spacing="1" fill="#a8c4aa">INDEPENDENT CANDIDATE PROJECT  /  ALBERT CHAN  /  2026</text>
+</svg>
